@@ -5,9 +5,10 @@ div{
     margin: auto;
     align-content: center;
     background-color: blueviolet;
-    opacity: 50%;
-    height: 100%;
     width: 600px;
+    padding: 20%;
+    border: 2em aliceblue;
+
 }
 h1{
     font-size: 5em;

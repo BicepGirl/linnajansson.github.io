@@ -2,9 +2,12 @@ body{
     background-color: mediumorchid;
 }
 div{
-    position: center;
+    margin: auto;
+    align-content: center;
     background-color: blueviolet;
     opacity: 50%;
+    height: 100%;
+    width: 50%;
 }
 h1{
     font-size: 5em;
